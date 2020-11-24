@@ -1,3 +1,3 @@
 # personal_datasets
 
-This repo contain some datasets for personal use.
+This repo contains some datasets for personal use.
