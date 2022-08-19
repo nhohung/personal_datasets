@@ -1,497 +1,751 @@
-1,serious,A
-2,dangerous,A
-3,neighbor,A
-4,intake,A
-5,yummy,A
-6,dessert,A
-7,guilty,A
-8,guilt,A
-9,avoid,A
-10,amaze,A
-11,certainly,A
-12,empty,A
-13,stuff,A
-14,asap,A
-15,strange,A
-16,hobby,A
-17,surprisingly,A
-18,assembly,A
-19,giant,A
-20,produce,A
-21,depend,A
-22,gamble,A
-23,against,A
-24,govern,A
-25,legal,A
-26,illegal,A
-27,rough,A
-28,aware,A
-29,major,A
-30,minor,A
-31,significant,A
-32,identity,A
-33,identify,A
-34,steal,A
-35,classified,A
-36,spy,A
-37,fought,A
-38,milestone,A
-39,"mean (a,v)",A
-40,meaningful,A
-41,"fine (a,v)",A
-42,"draw (a,v)",A
-43,cash,A
-44,cache,A
-45,prefer,A
-46,huge,A
-47,purchase,A
-48,jewelry,A
-49,necklace,A
-50,bracelet,A
-51,toe,A
-52,tongue,A
-53,pierce,A
-54,chain,A
-55,rip,A
-56,cause,A
-57,species,A
-58,passionate,A
-59,complain,A
-60,laughter,A
-61,infectious,A
-62,circle,A
-63,stamp,A
-64,collector,A
-65,random,A
-66,embarrassed,A
-67,medal,A
-68,tear,A
-69,obesity,A
-70,balanced,A
-71,diet,A
-72,hardly,A
-73,barely,A
-74,glue,A
-75,responsibility,A
-76,scare,A
-77,tiny,A
-78,duty,A
-79,joy,A
-80,reduce,A
-81,qualification,A
-82,degree,A
-83,certificate,A
-84,career,A
-85,accountant,A
-86,lawyer,A
-87,license,A
-88,stretch,A
-89,motion,A
-90,miss,A
-91,journey,A
-92,vacation,A
-93,commute,A
-94,rush-hour,A
-95,miserable,A
-96,period,A
-97,challenge,A
-98,impact,A
-99,expire,A
-100,approach,A
-101,treatment,A
-102,technique,A
-103,scientist,A
-104,rapid,A
-105,scale,A
-106,massive,A
-107,grateful,A
-108,participate,A
-109,infinite,A
-110,finite,A
-111,misuse,A
-112,universal,A
-113,collapse,A
-114,amount,A
-115,instead of,A
-116,escalator,A
-117,corridor,A
-118,excuse,A
-119,church,A
-120,bell,A
-121,bit,A
-122,bride,A
-123,groom,A
-124,vow,A
-125,invent,A
-126,edge,A
-127,bone,A
-128,security,A
-129,issue,A
-130,respect,A
-131,behave,A
-132,independent,A
-133,develop,A
-134,positive,A
-135,negative,A
-136,wild,A
-137,argue,A
-138,educate,A
-139,documentaries,A
-140,endanger,A
-141,extinction,A
-142,postpone,A
-143,examine,C
-144,characteristic,C
-145,ability,C
-146,deal with,C
-147,communicate,C
-148,article,C
-149,"need (v,n)",C
-150,increase,C
-151,identical,C
-152,content,C
-153,particular,C
-154,target,C
-155,identification,C
-156,range,C
-157,variety,C
-158,notice,C
-159,assessment,C
-160,straightforward,C
-161,variation,C
-162,neutral,C
-163,interact,C
-164,extend,C
-165,express,C
-166,carry out,C
-167,appropriate,C
-168,response,C
-169,matter,C
-170,contain,C
-171,component,C
-172,adapt,C
-173,simplify,C
-174,"shade (n,v)",C
-175,"weight (n,v)",C
-176,comprise,C
-177,represent,C
-178,factual,C
-179,material,C
-180,approximately,C
-181,"sign (n,v)",C
-182,describe,C
-183,specific,C
-184,specify,C
-185,comprehensive,C
-186,comprehend,C
-187,disregard,C
-188,redundant,C
-189,attitude,C
-190,infer,C
-191,integrate,C
-192,nature,C
-193,pattern,C
-194,involve,C
-195,relate,C
-196,essential,C
-197,misspell,C
-198,"loss, lost, lose",C
-199,include,C
-200,gain,C
-201,mark,C
-202,deduct,C
-203,probably,C
-204,scheme,C
-205,element,C
-206,cover,C
-207,adequate,C
-208,omit,C
-209,slightly,C
-210,relevant,C
-211,excess,C
-212,irrelevant,C
-213,incomprehensive,C
-214,receive,C
-215,achieve,C
-216,desire,C
-217,confident,C
-218,severe,C
-219,restrict,C
-220,incoherence,C
-221,struggle,C
-222,repetitive,C
-223,erratic,C
-224,numerous,C
-225,impede,C
-226,handle,B
-227,itchy,B
-228,collide,B
-229,collision,B
-230,pavement,B
-231,piteous,B
-232,sacrifice,B
-233,pinnacle,B
-234,glamorous,B
-235,scratch,B
-236,exert,B
-237,property,B
-238,offend,B
-239,offensive,B
-240,insult,B
-241,coincident,B
-242,rotten,B
-243,shelter,B
-244,disease,B
-245,vinegar,B
-246,drill,B
-247,potential,B
-248,modest,B
-249,generous,B
-250,query,B
-251,inquire,B
-252,mad,B
-253,furious,B
-254,tasteful,B
-255,murky,B
-256,dim,B
-257,gloomy,B
-258,incredible,B
-259,fabulous,B
-260,astonishing,B
-261,shatter,B
-262,piece,B
-263,fracture,B
-264,legendary,B
-265,memorable,B
-266,indolent,B
-267,vital,B
-268,crucial,B
-269,substantial,B
-270,indispensable,B
-271,depressed,B
-272,intimate,B
-273,swell,B
-274,eyelid,B
-275,pretend,B
-276,break into,B
-277,sibling,B
-278,animate,B
-279,ego,B
-280,flatter,B
-281,allergic,B
-282,allergy,B
-283,diligent,B
-284,diarrhea,B
-285,hectic,B
-286,witty,B
-287,fee,B
-288,addict,B
-289,splendid,B
-290,confuse,B
-291,peer,B
-292,motive,B
-293,motivation,B
-294,versus,B
-295,suspicious,B
-296,horn,B
-297,applaud,B
-298,reach,B
-299,wimp (n),B
-300,stalk,B
-301,shaman,B
-302,panic,B
-303,servant,B
-304,paternity,B
-305,debate,B
-306,suspect,B
-307,observe,B
-308,observation,B
-309,applicant,B
-310,acumen,B
-311,conceited,B
-312,heap,B
-313,reproach,B
-314,drown,B
-315,concentrate,B
-316,scar,B
-317,merit,B
-318,weld,B
-319,appreciate,B
-320,splurge,B
-321,overcome,B
-322,hurdle,B
-323,discharge,B
-324,distract,B
-325,suspend,B
-326,undergo,B
-327,shore,B
-328,strand,B
-329,legitimate,B
-330,ensure,B
-331,wretched,B
-332,thorny,B
-333,neglect,B
-334,warrior,B
-335,corporate,B
-336,stare,B
-337,startle,B
-338,division,B
-339,terrific,B
-340,literally,B
-341,fence,B
-342,encircle,B
-343,ash,B
-344,stain,B
-345,fictitious,B
-346,entirely,B
-347,completely,B
-348,alien,B
-349,funeral,B
-350,trigger,B
-351,avoid,B
-352,diagnose,B
-353,infection,B
-354,suffer,B
-355,donor,B
-356,dehydrate,B
-357,transmit,B
-358,archeology,B
-359,sociology,B
-360,astronomy,B
-361,geology,B
-362,geography,B
-363,linguistic,B
-364,evaluate,B
-365,analyze,B
-366,ambitious,C
-367,maintain,C
-368,organization,C
-369,occur,C
-370,coherence,C
-371,constraint,C
-372,deposit,PET
-373,locker,PET
-374,refund,PET
-375,refreshments,PET
-376,neat,PET
-377,beyond,PET
-378,below,PET
-379,above,PET
-380,mark,PET
-381,comic,PET
-382,latest,PET
-383,"display (v,n)",PET
-384,adventure,PET
-385,"object (n,v)",PET
-386,design,PET
-387,exhibit,PET
-388,talent,PET
-389,"advance (a, v)",PET
-390,equip,PET
-391,gallery,PET
-392,theme,PET
-393,wool,PET
-394,instruct,PET
-395,"character (n,n)",PET
-396,"subject (n,n)",PET
-397,suitable,PET
-398,"wonder (v, n)",PET
-399,"letter (n,n)",PET
-400,by chance,PET
-401,end up,PET
-402,dull,PET
-403,lifelong,PET
-404,set off,PET
-405,fin,PET
-406,as if,PET
-407,snorkel,PET
-408,swam,PET
-409,almost,PET
-410,creature,PET
-411,be keen ,PET
-412,as (..),PET
-413,defeat,PET
-414,chase,PET
-415,be over,PET
-416,last,PET
-417,ridiculous,PET
-418,starring,PET
-419,expode,PET
-420,move away from,PET
-421,upset,PET
-422,get somewhere,PET
-423,select,PET
-424,pick,PET
-425,travel,PET
-426,loose,PET
-427,anger (n),PET
-428,hunger (n),PET
-429,productive,PET
-430,"judge (n, v)",PET
-431,expert,PET
-432,vegetarian,PET
-433,expertise,PET
-434,drawer (n),PET
-435,supper (n),PET
-436,torn,PET
-437,influence,PET
-438,due on/to,PET
-439,pity,PET
-440,guitar,PET
-441,musician,PET
-442,"form (v,n)",PET
-443,immediate,PET
-444,close,PET
-445,singer,PET
-446,forest,PET
-447,sort,PET
-448,build a fire,PET
-449,aim,PET
-450,laboratory,PET
-451,revise,PET
-452,lend >< borrow,PET
-453,volleyball,PET
-454,barbecue,PET
-455,"fair (a, n)",PET
-456,jungle,PET
-457,manage to V,PET
-458,consume,PET
-459,enrol,PET
-460,switch,PET
-461,perspective,PET
-462,consider,PET
-463,occupation,PET
-464,diversity,PET
-465,a few times,PET
-466,occupied,PET
-467,considerate,PET
-468,considerable,PET
-469,demonstrate,PET
-470,organize,PET
-471,compete,PET
-472,competivive,PET
-473,regular,PET
-474,pleasure,PET
-475,attend,PET
-476,turn up,PET
-477,session,PET
-478,confidence,PET
-479,find out,PET
-480,notice,PET
-481,announce,PET
-482,notify,PET
-483,basket,PET
-484,stage,PET
-485,admit,PET
-486,sculpture,PET
-487,turn,PET
-488,back,PET
-489,proper,PET
-490,excuse,PET
-491,suggest,PET
-492,client,PET
-493,gesture,PET
-494,Navigate ,New1
-495,Disabled = handicapped = person with disability,New1
-496,Ridiculous ,New1
-497,Industrious ,New1
+﻿1,intake,A
+2,dessert,A
+3,guilty,A
+4,guilt,A
+5,amaze,A
+6,surprisingly,A
+7,giant,A
+8,produce,A
+9,gamble,A
+10,govern,A
+11,rough,A
+12,major,A
+13,minor,A
+14,identity,A
+15,identify,A
+16,steal,A
+17,classified,A
+18,spy,A
+19,fought,A
+20,milestone,A
+21,"mean (a,v)",A
+22,"fine (a,v)",A
+23,"draw (a,v)",A
+24,cache,A
+25,bracelet,A
+26,tongue,A
+27,pierce,A
+28,rip,A
+29,laughter,A
+30,infectious,A
+31,embarrassed,A
+32,medal,A
+33,tear,A
+34,obesity,A
+35,balanced,A
+36,hardly,A
+37,barely,A
+38,responsibility,A
+39,scare,A
+40,duty,A
+41,joy,A
+42,qualification,A
+43,degree,A
+44,certificate,A
+45,accountant,A
+46,lawyer,A
+47,license,A
+48,stretch,A
+49,motion,A
+50,miss,A
+51,journey,A
+52,vacation,A
+53,commute,A
+54,rush-hour,A
+55,miserable,A
+56,period,A
+57,challenge,A
+58,impact,A
+59,expire,A
+60,approach,A
+61,treatment,A
+62,technique,A
+63,scientist,A
+64,rapid,A
+65,scale,A
+66,massive,A
+67,grateful,A
+68,participate,A
+69,infinite,A
+70,finite,A
+71,misuse,A
+72,universal,A
+73,collapse,A
+74,amount,A
+75,instead of,A
+76,escalator,A
+77,corridor,A
+78,excuse,A
+79,church,A
+80,bell,A
+81,bit,A
+82,bride,A
+83,groom,A
+84,vow,A
+85,invent,A
+86,edge,A
+87,bone,A
+88,security,A
+89,issue,A
+90,respect,A
+91,behave,A
+92,independent,A
+93,develop,A
+94,positive,A
+95,negative,A
+96,wild,A
+97,argue,A
+98,educate,A
+99,documentaries,A
+100,endanger,A
+101,extinction,A
+102,postpone,A
+103,examine,C
+104,characteristic,C
+105,ability,C
+106,deal with,C
+107,communicate,C
+108,article,C
+109,"need (v,n)",C
+110,increase,C
+111,identical,C
+112,content,C
+113,particular,C
+114,target,C
+115,identification,C
+116,range,C
+117,variety,C
+118,notice,C
+119,assessment,C
+120,straightforward,C
+121,variation,C
+122,neutral,C
+123,interact,C
+124,extend,C
+125,express,C
+126,carry out,C
+127,appropriate,C
+128,response,C
+129,matter,C
+130,contain,C
+131,component,C
+132,adapt,C
+133,simplify,C
+134,"shade (n,v)",C
+135,"weight (n,v)",C
+136,comprise,C
+137,represent,C
+138,factual,C
+139,material,C
+140,approximately,C
+141,"sign (n,v)",C
+142,describe,C
+143,specific,C
+144,specify,C
+145,comprehensive,C
+146,comprehend,C
+147,disregard,C
+148,redundant,C
+149,attitude,C
+150,infer,C
+151,integrate,C
+152,nature,C
+153,pattern,C
+154,involve,C
+155,relate,C
+156,essential,C
+157,misspell,C
+158,"loss, lost, lose",C
+159,include,C
+160,gain,C
+161,mark,C
+162,deduct,C
+163,probably,C
+164,scheme,C
+165,element,C
+166,cover,C
+167,adequate,C
+168,omit,C
+169,slightly,C
+170,relevant,C
+171,excess,C
+172,irrelevant,C
+173,incomprehensive,C
+174,receive,C
+175,achieve,C
+176,desire,C
+177,confident,C
+178,severe,C
+179,restrict,C
+180,incoherence,C
+181,struggle,C
+182,repetitive,C
+183,erratic,C
+184,numerous,C
+185,impede,C
+186,handle,B
+187,itchy,B
+188,collide,B
+189,collision,B
+190,pavement,B
+191,piteous,B
+192,sacrifice,B
+193,pinnacle,B
+194,glamorous,B
+195,scratch,B
+196,exert,B
+197,property,B
+198,offend,B
+199,offensive,B
+200,insult,B
+201,coincident,B
+202,rotten,B
+203,shelter,B
+204,disease,B
+205,vinegar,B
+206,drill,B
+207,potential,B
+208,modest,B
+209,generous,B
+210,query,B
+211,inquire,B
+212,mad,B
+213,furious,B
+214,tasteful,B
+215,murky,B
+216,dim,B
+217,gloomy,B
+218,incredible,B
+219,fabulous,B
+220,astonishing,B
+221,shatter,B
+222,piece,B
+223,fracture,B
+224,legendary,B
+225,memorable,B
+226,indolent,B
+227,vital,B
+228,crucial,B
+229,substantial,B
+230,indispensable,B
+231,depressed,B
+232,intimate,B
+233,swell,B
+234,eyelid,B
+235,pretend,B
+236,break into,B
+237,sibling,B
+238,animate,B
+239,ego,B
+240,flatter,B
+241,allergic,B
+242,allergy,B
+243,diligent,B
+244,diarrhea,B
+245,hectic,B
+246,witty,B
+247,fee,B
+248,addict,B
+249,splendid,B
+250,confuse,B
+251,peer,B
+252,motive,B
+253,motivation,B
+254,versus,B
+255,suspicious,B
+256,horn,B
+257,applaud,B
+258,reach,B
+259,wimp (n),B
+260,stalk,B
+261,shaman,B
+262,panic,B
+263,servant,B
+264,paternity,B
+265,debate,B
+266,suspect,B
+267,observe,B
+268,observation,B
+269,applicant,B
+270,acumen (n),B
+271,conceited,B
+272,heap,B
+273,reproach,B
+274,drown,B
+275,concentrate,B
+276,scar,B
+277,merit,B
+278,weld,B
+279,appreciate,B
+280,splurge,B
+281,overcome,B
+282,hurdle,B
+283,discharge,B
+284,distract,B
+285,suspend,B
+286,undergo,B
+287,shore,B
+288,strand,B
+289,legitimate,B
+290,ensure,B
+291,wretched,B
+292,thorny,B
+293,neglect,B
+294,warrior,B
+295,corporate,B
+296,stare,B
+297,startle,B
+298,division,B
+299,terrific,B
+300,literally,B
+301,fence,B
+302,encircle,B
+303,ash,B
+304,stain,B
+305,fictitious,B
+306,entirely,B
+307,completely,B
+308,alien,B
+309,funeral,B
+310,trigger,B
+311,avoid,B
+312,diagnose,B
+313,suffer,B
+314,donor,B
+315,archeology,B
+316,sociology,B
+317,astronomy,B
+318,geology,B
+319,geography,B
+320,linguistic,B
+321,evaluate,B
+322,analyze,B
+323,ambitious,C
+324,maintain,C
+325,organization,C
+326,coherence,C
+327,constraint,C
+328,locker,PET
+329,refreshments,PET
+330,neat,PET
+331,beyond,PET
+332,below,PET
+333,above,PET
+334,mark,PET
+335,comic,PET
+336,"display (v,n)",PET
+337,adventure,PET
+338,"object (n,v)",PET
+339,design,PET
+340,exhibit,PET
+341,talent,PET
+342,"advance (a, v)",PET
+343,equip,PET
+344,gallery,PET
+345,theme,PET
+346,wool,PET
+347,instruct,PET
+348,"character (n,n)",PET
+349,"subject (n,n)",PET
+350,suitable,PET
+351,"wonder (v, n)",PET
+352,"letter (n,n)",PET
+353,by chance,PET
+354,end up,PET
+355,dull,PET
+356,lifelong,PET
+357,set off,PET
+358,fin,PET
+359,as if,PET
+360,snorkel,PET
+361,swam,PET
+362,almost,PET
+363,creature,PET
+364,be keen ,PET
+365,as (..),PET
+366,defeat,PET
+367,be over,PET
+368,last,PET
+369,ridiculous,PET
+370,starring,PET
+371,expode,PET
+372,move away from,PET
+373,upset,PET
+374,get somewhere,PET
+375,select,PET
+376,pick,PET
+377,travel,PET
+378,loose,PET
+379,anger (n),PET
+380,hunger (n),PET
+381,productive,PET
+382,"judge (n, v)",PET
+383,expert,PET
+384,vegetarian,PET
+385,expertise,PET
+386,drawer (n),PET
+387,supper (n),PET
+388,torn,PET
+389,influence,PET
+390,due on/to,PET
+391,pity,PET
+392,guitar,PET
+393,musician,PET
+394,"form (v,n)",PET
+395,immediate,PET
+398,sort,PET
+399,build a fire,PET
+400,aim,PET
+401,laboratory,PET
+402,revise,PET
+403,lend >< borrow,PET
+404,volleyball,PET
+405,barbecue,PET
+406,"fair (a, n)",PET
+407,jungle,PET
+408,manage to V,PET
+409,consume,PET
+410,enrol,PET
+411,switch,PET
+412,perspective,PET
+413,consider,PET
+414,occupation,PET
+415,diversity,PET
+416,a few times,PET
+417,occupied,PET
+418,considerate,PET
+419,considerable,PET
+420,demonstrate,PET
+421,organize,PET
+422,compete,PET
+423,competivive,PET
+424,regular,PET
+425,pleasure,PET
+426,attend,PET
+427,turn up,PET
+428,session,PET
+429,confidence,PET
+430,find out,PET
+431,notice,PET
+432,announce,PET
+433,notify,PET
+434,basket,PET
+435,stage,PET
+436,admit,PET
+437,sculpture,PET
+438,turn,PET
+439,back,PET
+440,proper,PET
+441,excuse,PET
+442,suggest,PET
+443,client,PET
+444,gesture,PET
+445,account for =,IE1
+446,Essense ,IE1
+447,On good salaries ,IE1
+448,Primarily =,IE1
+449,Maintenance (n),IE1
+450,Tobe willing to do sth,IE1
+451,Prompt = (v),IE1
+452,"Prompt = (adj, n)",IE1
+453,Comparable to/with stb/sb (adj),IE1
+454,Comparative (adj),IE1
+455,Equivalent (adj),IE1
+456,Fluctuate (v),IE1
+457,Fluctuation in/of sth (n),IE1
+458,Refine,IE1
+459,refined (adj),IE1
+460,Refinement (n),IE1
+461,Institution,IE1
+462,Institutional (adj),IE1
+463,Shortcut,IE1
+464,Mechanism (n),IE1
+465,Mechanics (n),IE1
+466, Mechanical (adj),IE1
+467,Implement = (v),IE1
+468,Objective = (n),IE1
+469,Cognitive (adj),IE1
+470,Cognition ,IE1
+471,Precious /ˈpreʃəs/ (adj),IE1
+472,Magnitude /ˈmæɡnɪtjuːd/ (n),IE1
+473,Confess sth/to sth/to V-ving (v),IE1
+474,Confession,IE1
+475,Dump = ,IE1
+476,Hideous /ˈhɪdiəs/ (adj): ,IE1
+477,Privilege /ˈprɪvəlɪdʒ/ (n): ,IE1
+478,Compensate (v) = ,IE1
+479,Compensation,IE1
+480,compensatory,IE1
+481,Assembly (n),IE1
+482,Assemble (adj),IE1
+483,Virtually (adv),IE1
+484,Relative,IE1
+485,Integrate (v) /ˈɪntɪɡreɪt/ ,IE2
+486,Integration,IE2
+487,Integrated,IE2
+488,Tackle,IE2
+489,Convention,IE2
+490,Conventional >< unconventional (adj) = ,IE2
+491,Conventionality ,IE2
+492,Life expectancy,IE2
+493,Ease (v) = lighten = lessen,IE2
+494,Result in sth,IE2
+495,to commit suicide /ˈsuːɪsaɪd/ ,IE2
+496,Include (v) = draw inclusion,IE2
+497,To have nothing to do with sth/sb: ,IE2
+498,Poison,IE2
+499,Feasible = viable = realistic ,IE2
+500,Unfeasible = unrealistic:,IE2
+501,Viability = feasibility,IE2
+502,Diversity = (n),IE2
+503,Diverse (Adj),IE2
+504,Diversify (v),IE2
+505,Diversified,IE2
+506,Commit ,IE2
+507,Commit a crime ,IE2
+508,Commitment:,IE2
+509,Shift = change ,IE2
+510,Purify ,IE2
+511,Term,IE2
+512,Erode /ɪˈrəʊd/ ,IE2
+513,Erosion,IE2
+514,Absorbed in work = passionate about the work,IE2
+515,Run-off,IE2
+516,"Merely /ˈmɪəli/ = only, solely, simply",IE2
+517,Yields ,IE2
+518,Quantify (v),IE2
+519,Qualify (v),IE2
+520,Emit (v),IE2
+521,Emission,IE2
+522,Objectivity  (n),IE2
+523,Reinforce,IE2
+524,Reinforcement,IE2
+525,Phenomenon,IE3
+526,Topple,IE3
+527,Plot (n),IE3
+528,Plot (v),IE3
+529,Elevate /ˈelɪveɪt/ (v): ,IE3
+530,Stable = (adj),IE3
+531,Stabilize (v) ,IE3
+532,Precision,IE3
+533,Precise (v),IE3
+534,Accurate (adj),IE3
+535,Accuracy,IE3
+536,Accurately ,IE3
+537,Mass,IE3
+538,each end of the pole ,IE3
+539,Abrupt (adj),IE3
+540,Abruptly ,IE3
+541,"Abruptness = brusqueness, curtness",IE3
+542,Anticipate (v) =,IE3
+543,Counterpart,IE3
+544,Constrain (v),IE3
+545,Level = flat (v),IE3
+546,Mystify (v) - Mystification,IE3
+547,Confidental = classified,IE3
+548,External >< internal (adj),IE3
+549,Externality (n),IE3
+550,Sideways >< upright,IE3
+551,Sway,IE3
+552,Typically /ˈtɪpɪkli/ (adv): ,IE3
+553,Dispense/ Dispense with (v) - 2 meanings,IE3
+554,Tile,IE3
+555,Resilience (n),IE3
+556,Resilient (adj),IE3
+557,Dampen (v),IE3
+558,Stationary (adj),IE3
+559,Apparently  (adj),IE3
+560,Consecutive /kənˈsekjətɪv/ ,IE3
+561,Resume (v),IE3
+562,Thus far = so far = until now = up to this point,IE3
+563,Replenish (v) - replenishment (n),IE3
+564,demystify (v),IE3
+565,constant (adj),IE4
+566,Pursue ,IE4
+567,Pursuit of sth  (n),IE4
+568, Eternally (adv),IE4
+569,"Assault sb/sth /əˈsɔːlt/ (n, v): ",IE4
+570,Rely on sth/sb ,IE4
+571,Congested (adj),IE4
+572,Staggering (/ˈstæɡərɪŋ/ (adj),IE4
+573,Ethical /ˈeθɪkl/ (adj): ,IE4
+574,Durable,IE4
+575,Durability ,IE4
+576,Exasperate (v) - Exasperated (adj),IE4
+577,Erupt,IE4
+578,Accelerate (v),IE4
+579,Acceleration,IE4
+580,Eradicate sth/from sth (v) = ,IE4
+581,Resemble (v),IE4
+582,Fragile (adj) - Fragility (n),IE4
+583,Resemblance to sb/sth (n),IE4
+584,Monetize /ˈmɑːnɪtaɪz/ ,IE4
+585,Monetization of sth ,IE4
+586,Monetary (adj),IE4
+587,Carve,IE4
+588,Instinct ,IE4
+589,Pollinate /ˈpɒləneɪt/(v) - Pollination,IE4
+590,Pollen,IE4
+591,Facilitate,IE4
+592,Repository = ,IE4
+593,Indigenous (adj),IE4
+594,Indispensable = ,IE4
+595,Irrespective of  (adv),IE4
+596,Evironmental degradation,IE4
+597,Aviation,IE4
+598,Generate,IE4
+599,Burden on sb/of sth ,IE4
+600,fundamental,IE4
+601,Unusable,IE4
+602,Concise,IE4
+603,Slope,IE4
+604,Intellectual ,IE4
+605,Fertilizer,IE4
+606,Perspective (n),IE5
+607,"Utmost (adj, n)",IE5
+608,Invariable (adj) - Invariably  (adv) =,IE5
+609,Accustomed to sth/to doing sth ,IE5
+610,Tuition,IE5
+611,Literacy,IE5
+612,Illiteracy ,IE5
+613,Pricey = (adj),IE5
+614,Eager (adj),IE5
+615,Intuition,IE5
+616,Anonymous,IE5
+617,Reliable ,IE5
+618,proficent = ,IE5
+619,Competent in sth to do sth,IE5
+620, Incompetence ,IE5
+621,Compatible (adj) ,IE5
+622,Compatibility (n) >< Incompatibility,IE5
+623,Comprehension,IE5
+624,Fire sb from sth = to give sb the sack = sack sb,IE5
+625,Recession,IE5
+626,Scheme for sth/to do sth ,IE5
+627,Poultry ,IE5
+628,Expectation of/about sth ,IE5
+629,deficient in sth  - Deficiency (of sth) in sth  ,IE5
+630,Hold out,IE5
+631,Disused ,IE5
+632,Disorder (v) - Disordered (adj),IE5
+633,Prevalent ,IE5
+634,Release - Release sb from sth = let sb out of sth,IE5
+635,Sync ,IE5
+636,Collision,IE5
+637,Censor,IE5
+638,Censorship ,IE5
+639,Presence (n),IE5
+640,Disregard (v) - Disregard for sth (n),IE5
+641,Nimble,IE5
+642,Zip,IE5
+643,"Breakthrough (n, adj)",IE5
+644,,IE5
+645,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
+,,IE5
